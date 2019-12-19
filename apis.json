@@ -1,0 +1,66 @@
+{
+    "name": "Neurotic Media",
+    "description": "We design and build custom, private label music services for retailers, brand marketers, content owners and mobile operators.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/868-neurotic-media.jpg",
+    "tags": [
+        "api provider",
+        "digital media marketing",
+        "have api",
+        "shopping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/neurotic-media\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Neurotic Media",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/868-neurotic-media.jpg",
+            "humanURL": "https:\/\/www.neuroticmedia.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/neurotic-media-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/www.neuroticmedia.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.neuroticmedia.com\/feed"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.neuroticmedia.com\/api-developer-lab\/"
+        },
+        {
+            "type": "Email",
+            "url": "hello@neuroticmedia.com"
+        },
+        {
+            "type": "Email",
+            "url": "partner@neuroticmedia.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@neuroticmedia.com"
+        },
+        {
+            "type": "Email",
+            "url": "service@neuroticmedia.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/NeuroticMedia"
+        }
+    ]
+}
